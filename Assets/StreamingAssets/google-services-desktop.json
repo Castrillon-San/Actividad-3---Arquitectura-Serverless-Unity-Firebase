@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205472763336",
+    "firebase_url": "https://flappy-bird-c86a2-default-rtdb.firebaseio.com",
+    "project_id": "flappy-bird-c86a2",
+    "storage_bucket": "flappy-bird-c86a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205472763336:android:3de1057c95aced148ac4fd",
+        "android_client_info": {
+          "package_name": "com.santiagocastrillon.flappybird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205472763336-u1adaqvgeks16mepi2bj8r6pr7m0rum9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcX9Jw-Zjdi-UBdCL3GxCDKdwgV1OACeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205472763336-u1adaqvgeks16mepi2bj8r6pr7m0rum9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
